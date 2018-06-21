@@ -1,0 +1,10 @@
+DEPLOY_ENV: test
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0
+      enableSelfPreservation: false
+      evictionIntervalTimerInMs: 4000

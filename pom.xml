@@ -10,7 +10,7 @@
 		<docker.registry>10.253.6.113:5000/</docker.registry>
 		<docker.repository>ms</docker.repository>
 		<vertx.version>3.4.2</vertx.version>
-		<spring-cloud.version>Finchley.RC2</spring-cloud.version>
+		<spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
